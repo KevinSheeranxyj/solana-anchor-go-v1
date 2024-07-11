@@ -26,6 +26,7 @@ go.work.sum
 
 generated/
 solana-anchor-go
+anchor-go
 .vscode
 .idea
 .anchor
